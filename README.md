@@ -27,9 +27,9 @@
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jorgeortiz41&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeortiz41&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jorgeortiz41&&show_icons=true&count_private=true&theme=blueberry_duo">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeortiz41&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeortiz41&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeortiz41&layout=compact&theme=blueberry_duo"/>|
 
 ## Programming Languages
 
