@@ -42,6 +42,7 @@
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"></a>
 	<a href="#"><img alt="Go" src="https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white"></a>
+	<a href="#"><img alt="Rust" src="https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust"></a>
 </p>
 
 ## Frameworks and Libraries
